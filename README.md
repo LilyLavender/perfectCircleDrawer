@@ -7,4 +7,4 @@ Python program specifically for drawing a perfect circle on neal.fun
 <b>If you're having issues with the main program, try circleCustomizable instead</b><br>
 &emsp;• It allows you to customize the radius of the circle as well as the number of steps<br>
 &emsp;• This version requires the cursor to be placed manually. <br>
-&emsp;&emsp;↳ What works best for me is centering the cursor on the white dot, and then moving one pixel down and one right
+&emsp;&emsp;↳ What works best for me is centering the cursor on the white dot, then moving one pixel down and one right
